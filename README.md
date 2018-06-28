@@ -5,8 +5,8 @@ Your assignment: build a single page website that is a tribute to someone (or ev
 1. Create a new project repository in your own GitHub account. On the command line, set up a new directory called "Tribute-Project" and create (empty) index.html and main.css files. 
 
 2. Build out the HTML page structure in index.html. Use appropriate semantic markup syntax. 
-- The page should consist, at minimum, of a title, an image with optional caption, and three separate paragraphs of text content. The text content should include a quote from the person. _Possible semantic elements could include <figure>, <figcaption>, <article>, and <main>._ 
-- Use at least one external link (hint: <a></a>) in your text, which links to an outside site giving additional information about the subject of the tribute page. _Hint #2: You must give your element an attribute of "target" and set it to _blank in order for your link to open in a new tab (i.e. target="_blank")._
+- The page should consist, at minimum, of a title, an image with optional caption, and three separate paragraphs of text content. The text content should include a quote from the person. _Possible semantic elements could include \<figure\>, \<figcaption\>, \<article>, and \<main>._ 
+- Use at least one external link (hint: <a></a>) in your text, which links to an outside site giving additional information about the subject of the tribute page. *Hint #2: You must give your element an attribute of "target" and set it to _blank in order for your link to open in a new tab (i.e. target="_blank").*
 - Use one instance of an **ID** and one instance of a **class** in your markup.
 - Within the HTML <header> be sure to insert an element linking the markup to the stylesheet.
 
